@@ -1,0 +1,22 @@
+name: LuckPerms-More-Placeholders
+version: 1.0.0
+main: com.quang1807.luckpermsplaceholders.LuckPermsPlaceholders
+author: quang1807
+description: LuckPerms addon with temp group placeholders
+api-version: 1.13
+depend: [LuckPerms, PlaceholderAPI]
+
+commands:
+  lpplaceholder:
+    description: Main command for LuckPerms-More-Placeholders
+    usage: /<command> [reload|check|help|info]
+    aliases: [lppl]
+    permission: luckpermsplaceholders.admin
+
+permissions:
+  luckpermsplaceholders.admin:
+    description: Admin permission for LuckPerms-More-Placeholders
+    default: op
+  luckpermsplaceholders.use:
+    description: Use placeholders
+    default: true

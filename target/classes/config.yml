@@ -1,0 +1,28 @@
+# LuckPerms-More-Placeholders Configuration
+# Author: quang1807
+
+settings:
+  # Date format for displaying time (Java SimpleDateFormat)
+  # Examples:
+  # dd/MM/yyyy HH:mm:ss -> 25/12/2024 15:30:45
+  # yyyy-MM-dd HH:mm:ss -> 2024-12-25 15:30:45
+  # HH:mm:ss -> 15:30:45
+  date-format: "dd/MM/yyyy HH:mm:ss"
+
+  # Update interval for placeholders in milliseconds
+  # Default: 1000ms (1 second)
+  update-interval: 1000
+
+  # Enable debug mode
+  debug: false
+
+# Placeholder settings
+placeholders:
+  # Format for time display when no temp group found
+  no-temp-group: "No temp group"
+
+  # Format for expired temp group
+  expired: "Expired"
+
+  # Format for permanent group
+  permanent: "Permanent"
