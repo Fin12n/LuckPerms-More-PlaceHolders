@@ -35,7 +35,7 @@
 | `%luckperms_cooldown_<group>%` | Thời gian còn lại của group cụ thể | `%luckperms_cooldown_vip%` |
 | `%luckperms_cooldown_current%` | Thời gian còn lại của temp group hiện tại | Auto-detect temp group |
 
-### Ví dụ sử dụng
+### Cách sử dụng trong 1 vài plugins
 
 ```yaml
 # Trong DeluxeMenus
@@ -117,7 +117,7 @@ scoreboard:
 
 - Java 17+
 - Maven 3.6+
-- IntelliJ IDEA 2024.1 (khuyến nghị)
+- IntelliJ IDEA 2024.1 (chỉnh sửa)
 
 ### Các bước build
 
@@ -169,7 +169,7 @@ MIT License - Xem file [LICENSE](LICENSE) để biết chi tiết.
 
 **quang1807**
 
-- GitHub: [@quang1807](https://github.com/quang1807)
+- GitHub: [@quang1807](https://github.com/Fin12n)
 
 ## 🤝 Đóng góp
 
@@ -185,7 +185,7 @@ Mọi đóng góp đều được hoan nghênh! Vui lòng:
 
 Nếu bạn gặp vấn đề hoặc có câu hỏi:
 
-1. Tạo [GitHub Issue](https://github.com/quang1807/luckperms-more-placeholders/issues)
+1. Tạo [GitHub Issue](https://github.com/Fin12n/LuckPerms-More-PlaceHolders/issues)
 2. Liên hệ qua Discord: `quang1807`
 
 ## 📈 Changelog
